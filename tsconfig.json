@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "jsx": "react-jsx",
+      // other settings...
+      "types": ["node"],
+      "esModuleInterop": true
+    }
+  }
+  
